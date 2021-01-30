@@ -13,4 +13,4 @@ Apaixonada pelo o que eu faço e desenvolvo.
 * 😄 Estudante na EEEP Leonel de Moura Brizola
 
 ## Pode me encontrar por aqui: 
-![Link do Linkedin](https://www.linkedin.com/in/leticia-rodri/)
+:f08c: [Link do Linkedin](https://www.linkedin.com/in/leticia-rodri/)
