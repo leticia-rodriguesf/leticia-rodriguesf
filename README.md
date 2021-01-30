@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**leticia-rodriguesf/leticia-rodriguesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leticia-rodriguesf/leticia-rodriguesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desenvolvedora de Software ✨
+Apaixonada pelo o que eu faço e desenvolvo.
+
+* 🌱 Aprendendo Python
+* ⚡ Desenvolvendo meu conhecimento diariamente
+* 🏆 Finalista da Nasa Space Apps Brazil 2020
+* 😄 Estudante na EEEP Leonel de Moura Brizola
+
+## Pode me encontrar por aqui: 
+
