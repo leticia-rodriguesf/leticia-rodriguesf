@@ -7,7 +7,7 @@
 ## Desenvolvedora de Software ✨
 Apaixonada pelo o que eu faço e desenvolvo.
 
-* 🌱 Aprendendo Python
+* 🌱 Aprendendo JavaScript e Python
 * ⚡ Desenvolvendo meu conhecimento diariamente
 * 🏆 Finalista da Nasa Space Apps Brazil 2020
 * 😄 Estudante na EEEP Leonel de Moura Brizola
