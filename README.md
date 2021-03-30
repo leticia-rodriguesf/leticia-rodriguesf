@@ -4,13 +4,13 @@
 **leticia-rodriguesf/leticia-rodriguesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-## Desenvolvedora de Software ✨
-Apaixonada pelo o que eu faço e desenvolvo.
+## Software Developer✨
+Passionate about what I do and develop.
 
-* 🌱 Aprendendo JavaScript e Python
-* ⚡ Desenvolvendo meu conhecimento diariamente
-* 🏆 Finalista da Nasa Space Apps Brazil 2020
-* 😄 Estudante na EEEP Leonel de Moura Brizola
+* 🌱 Learning JavaScript and Python
+* ⚡ Developing my knowledge daily
+* 🏆 Nasa Space Apps Brazil 2020 Finalist
+* 😄 EEEP Leonel de Moura Brizola Student
 
-## Pode me encontrar por aqui: 
+## You can find me here: 
 [Linkedin](https://www.linkedin.com/in/leticia-rodri/)
