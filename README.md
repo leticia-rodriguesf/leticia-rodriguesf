@@ -7,7 +7,7 @@
 ## Software Developer✨
 Passionate about what I do and develop.
 
-* 🌱 Learning JavaScript and Python
+* 🌱 Learning JavaScript and English
 * ⚡ Developing my knowledge daily
 * 🏆 Nasa Space Apps Brazil 2020 Finalist
 * 😄 EEEP Leonel de Moura Brizola Student
